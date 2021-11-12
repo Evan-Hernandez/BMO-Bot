@@ -1,2 +1,2 @@
 # BMO-Bot
-Bmo themed discord bot written in python
+BMO themed discord bot written in python
